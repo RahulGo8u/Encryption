@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/csharp/.vs
+/csharp/CSEncrypt/.vs/CSEncrypt
+/csharp/CSEncrypt/CSEncrypt/bin/Debug/net5.0
+/csharp/CSEncrypt/CSEncrypt/obj
